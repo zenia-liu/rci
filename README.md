@@ -5,9 +5,9 @@
 **基于多源数据与 DID 因果识别的实证分析**
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Live Demo](https://img.shields.io/badge/🚀-在线诊断面板-ff69b4)](https://zenia-liu.github.io/internet-famous-city-rci/)
-[![Paper](https://img.shields.io/badge/📄-论文-PDF-green)](https://github.com/zenia-liu/internet-famous-city-rci/blob/main/%E8%AE%BA%E6%96%87.pdf)
-[![Competition](https://img.shields.io/badge/🏆-全国大学生统计建模大赛-2026-orange)]()
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4)](https://zenia-liu.github.io/internet-famous-city-rci/)
+[![Paper](https://img.shields.io/badge/Paper-PDF-green)](https://github.com/zenia-liu/internet-famous-city-rci/blob/main/%E8%AE%BA%E6%96%87.pdf)
+[![Competition](https://img.shields.io/badge/2026-%E7%BB%9F%E8%AE%A1%E5%BB%BA%E6%A8%A1%E5%A4%A7%E8%B5%9B-orange)]()
 
 **[刘乐乐](https://github.com/zenia-liu)** · **康妤冉** · **林霖**
 
@@ -204,6 +204,6 @@ internet-famous-city-rci/
 
 **第十二届全国大学生统计建模大赛** | 2026
 
-Made with ❤️ by Zenia Liu, Yuran Kang, Lin Lin
+Made with ❤️ by Team RCI
 
 </div>
